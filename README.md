@@ -31,3 +31,12 @@
 ## 💡 結論
 本データが示す「最大空白 0.9秒」という数値は、システム上の制約、あるいは
 現場における「人道的・物理的限界」を示唆する極めて重要な指標です。
+
+---
+Experience-driven Data Scientist. | Bosch (Manufacturing) & Real Estate Analysis.
+I find the 'physical reality' behind the noise (0.330/0.9s).
+
+Next: 3 (The Core of Reality) ... To be continued
+
+Contact: 
+Email:ncis.la.no85@gmail.com
